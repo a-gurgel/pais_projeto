@@ -1,0 +1,6 @@
+[Quinta-feira, Maio 21, 2020 BRT 04:51:34:190 pm] /PaisProjeto/Menu.jsp
+
+[Quinta-feira, Maio 21, 2020 BRT 04:56:30:292 pm] /PaisProjeto/Login.jsp
+
+[Quinta-feira, Maio 21, 2020 BRT 04:56:55:265 pm] /PaisProjeto/registrar.jsp
+
